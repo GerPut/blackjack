@@ -4,9 +4,31 @@ body{
     background-size: cover;
     color:white;
     font-family: 'Trebuchet MS','Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+    text-align: center;
 }
 
 h1 {
     color: goldenrod;
     font-size: 6rem;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+button{
+color: #016f32;
+width :250px;
+background:goldenrod;
+padding:20px;
+font-size: 2rem;
+font-weight: bold;
+border:none;
+border-radius:8px;
+}
+button:hover{
+    cursor: pointer;
 }

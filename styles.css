@@ -5,6 +5,7 @@ body{
     color:white;
     font-family: 'Trebuchet MS','Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
     text-align: center;
+    height:100vh;
 }
 
 h1 {
@@ -28,7 +29,9 @@ font-size: 2rem;
 font-weight: bold;
 border:none;
 border-radius:8px;
+margin-bottom: 10px;
 }
 button:hover{
     cursor: pointer;
 }
+
